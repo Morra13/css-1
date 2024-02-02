@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83cd0317-5c68-49cf-b7e6-bcbca1c5e768" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../09_advanced-html/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/fonts/OpenSans-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1024-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1024-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1024-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1920-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1920-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-1920-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-320-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-320-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-320-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-768-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-768-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/catalog-768-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/checkbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1024-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1024-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1024-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1920-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1920-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-1920-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-320-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-320-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-320-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-768-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-768-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/events-768-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1024-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1024-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1024-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1920-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1920-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-1920-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-320-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-320-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-320-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-768-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-768-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-768-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-background-1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-background-1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-background-320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/gallery-background-768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/hero-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/hero-1920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/hero-320.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/hero-768.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/logo-1920.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/partner-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/partner-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/partner-mobile-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/partner-mobile-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/telegram-mobile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/whatsapp-mobile.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/img/whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php7.4\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2UbvIlq6Nlez0ygetVhQyqM2fEG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/study/weblayout/16_cross-browser&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83cd0317-5c68-49cf-b7e6-bcbca1c5e768" name="Changes" comment="" />
+      <created>1693221016341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693221016341</updated>
+      <workItem from="1693221017346" duration="18000" />
+      <workItem from="1695479258652" duration="256000" />
+      <workItem from="1695488115739" duration="1781000" />
+      <workItem from="1695562417571" duration="43000" />
+      <workItem from="1695563625278" duration="794000" />
+      <workItem from="1696269187086" duration="7000" />
+      <workItem from="1696269348928" duration="372000" />
+      <workItem from="1696282653571" duration="87000" />
+      <workItem from="1696282805917" duration="22000" />
+      <workItem from="1696417444885" duration="1653000" />
+      <workItem from="1696422287771" duration="670000" />
+      <workItem from="1696452778336" duration="118000" />
+      <workItem from="1696947127517" duration="76000" />
+      <workItem from="1697021535356" duration="36000" />
+      <workItem from="1699100030416" duration="7000" />
+      <workItem from="1700557486022" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
